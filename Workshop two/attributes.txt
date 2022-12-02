@@ -1,0 +1,20 @@
+#. Use of "alt" attribute in images
+1. shows an text for an image, if the image can't be displayed
+2. determine the content of the image if the user can't view it
+3. helps blind person to feel the content of image through screen readers
+4. can help rank in search engine 
+
+#. Importance of "alt" attribute in images
+1. Blind people can surf the websites
+2. website accessibility
+3. opportunity to rank in search engine
+
+#. Use of "Title" attribute in image
+1. expaining the image
+2. hovering the mouse over the image, displays the tooltip
+3. enables blind people to feel the content of the picture through screen reader
+
+#. Importance of "Title" attribute in image
+1. Gives identity to the image
+2. represents image meaning visually for the user
+
