@@ -6,7 +6,7 @@
 .navigation{
     height:10% ;
     width: 100%;
-    background-image: url(nav.jpeg);
+    background-image: url(/imgs/nav.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -48,4 +48,4 @@ nav ul li a:hover{
 }
 .but:hover{
     background-color: gray;
-}
+}           
