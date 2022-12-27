@@ -1,0 +1,26 @@
+.flex-container{
+width: 100%;
+height: auto;
+border: 1px solid limegreen;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+background-color: aqua;
+align-content: center;
+flex-direction: column;
+}
+.item1{
+    border: 3px solid black;
+    height: auto;
+    width: auto;
+}
+.item2{
+    border: 3px solid black;
+    height: auto;
+    width: auto;
+}
+.item3{
+    border: 3px solid black;
+    height: auto;
+    width: auto;
+}
